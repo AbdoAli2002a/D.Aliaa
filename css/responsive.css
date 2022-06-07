@@ -133,6 +133,12 @@
         background: url(../images/menu_icon.png);
         background-repeat: no-repeat;
     }
+         .main{
+        width: 100%;
+    }
+    .video{
+        width: 100%;
+    }
 }
 
 @media (max-width: 575px) {
@@ -211,6 +217,12 @@
     .navigation.navbar-dark .navbar-toggler-icon {
         background: url(../images/menu_icon.png);
         background-repeat: no-repeat;
+    }
+         .main{
+        width: 100%;
+    }
+    .video{
+        width: 100%;
     }
 }
 
